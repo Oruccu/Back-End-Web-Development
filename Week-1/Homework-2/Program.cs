@@ -31,8 +31,9 @@ double Total = FirstProduct + SecondeProduct;               //Total spending
 double Percent=10;              
 double PatikaNumber= Total * (Percent/100);                 // Patika number:)
 
+
 Console.WriteLine($"{TC} Tc numarali {Name} {Surname} isimli kisi için kayit oluşturulmuştur.");
 Console.WriteLine($"{Number} telefon numarasina bildirim mesaji gönderilmiştir.");
 Console.WriteLine($"{Total} toplam harcama karsiliği kazanilan %10 patika puan miktari -> {PatikaNumber} TL'dir.");
 
-
+Console.WriteLine();
