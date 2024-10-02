@@ -24,6 +24,7 @@ else
 {
     Console.WriteLine("Cevabınız yanlış");
 }
+//*******************************************
 
 //Question-2
 Console.WriteLine(Question2);
@@ -39,6 +40,7 @@ else
     Console.WriteLine("Cevabınız yanlış");
 }
 Console.WriteLine(Score);
+//*********************************************
 
 //Question-3
 if (Score == 20)
