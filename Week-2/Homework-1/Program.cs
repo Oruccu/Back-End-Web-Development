@@ -20,35 +20,21 @@ for (int j = 50; j <= 150; j++)
 Console.WriteLine("50 ile 150 arasındaki sayıların toplamı: " + sum);
 
 Console.WriteLine("****************************5. Task****************************");
-int[] doubt = new int[60];
-int[] single = new int[60];
-int doubtIndex = 0;
-int singleIndex = 0;
 
+int sumdoubt = 0;
+int sumsingle = 0;
 for (int i = 1; i <= 120; i++)
 {
     if (i % 2 == 0)
-       { 
-        doubt[doubtIndex] = i;
-        doubtIndex++;
-        }
+    {
+        sumdoubt += i;
+    }
     else
-       { 
-        single[singleIndex] = i;
-        singleIndex++;
+    {
+        sumsingle += i;
+
     }
 }
-
-Console.WriteLine("Çift sayılar: ");
-foreach (int item in doubt)
-{
-    Console.Write(item+ " ");
-}
-Console.WriteLine(" ");
-Console.WriteLine("Tek sayılar: ");
-foreach (int item in single)
-{
-    Console.Write(item+ " ");
-}
-
+Console.WriteLine("Çift sayıların toplamı: " + sumdoubt);
+Console.WriteLine("Tek sayıların toplamı: " + sumsingle);
 
