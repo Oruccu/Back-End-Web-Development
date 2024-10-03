@@ -12,3 +12,4 @@
 /Users/aysenuroruccu/Desktop/Back-End Web Development/Week-1/Homework-1/obj/Debug/net8.0/Homework-1.pdb
 /Users/aysenuroruccu/Desktop/Back-End Web Development/Week-1/Homework-1/obj/Debug/net8.0/Homework-1.genruntimeconfig.cache
 /Users/aysenuroruccu/Desktop/Back-End Web Development/Week-1/Homework-1/obj/Debug/net8.0/ref/Homework-1.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-1/Homework-1/obj/Debug/net8.0/Homework-1.sourcelink.json
