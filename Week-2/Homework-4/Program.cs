@@ -8,6 +8,7 @@ int BodrumPrice = 4000;
 int MarmarisPrice = 3000;
 int CesmePrice = 5000;
 int HotelPrice = 0;
+
 // Transport Variable
 int AirPrice = 1500;
 int LandPrice = 4000;
