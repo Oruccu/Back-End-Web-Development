@@ -45,7 +45,7 @@ else
 HereTransport:
 //Transport Options
 
-Console.WriteLine($"{InputLocation} tatilin için heyecanlıyız. Nasıl seyehat etmek istersiniz?");
+Console.WriteLine($"{Location} tatilin için heyecanlıyız. Nasıl seyahat etmek istersiniz?");
 Console.WriteLine("1 - Kara yolu ( Kişi başı ulaşım tutarı gidiş-dönüş 1500 TL )");
 Console.WriteLine("2 - Hava yolu ( Kişi başı ulaşım tutarı gidiş-dönüş 4000 TL))");
 
