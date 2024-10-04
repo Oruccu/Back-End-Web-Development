@@ -13,6 +13,9 @@ int AirPrice = 1500;
 int LandPrice = 4000;
 int TransportPrice = 0;
 int SumPrice = 0;
+//User Result
+string result;
+int InputResult;
 Here:
 Console.WriteLine("Senin için harika tatil fırsatlarımız var!");
 Console.WriteLine("Tatile gitmek istediğin yeri seçer misin: (Bodrum/Marmaris/Çeşme)");
@@ -68,6 +71,22 @@ else
 Console.WriteLine(" ");
 SumPrice = HotelPrice + TransportPrice;
 Console.WriteLine("Toplam gideriniz:" + SumPrice);
+
+
+Console.WriteLine(" ");
+Console.WriteLine("Bizimle konforlu bir tatile ne dersin?");
+Console.WriteLine("Başka bir tatil planlamak için :1'e basınız ");
+Console.WriteLine("Planı iptal etmek için:2'ye basınız");
+
+result = Console.ReadLine();
+InputResult = Convert.ToInt16(result);
+
+if (InputResult == 1)
+    goto Here;
+else
+    Console.WriteLine("İyi günler");
+
+
 
 
 
