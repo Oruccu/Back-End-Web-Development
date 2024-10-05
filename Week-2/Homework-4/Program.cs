@@ -3,6 +3,7 @@ string Location;
 string InputLocation;
 string Transport;
 string InputTransport;
+
 // Location Variable
 int BodrumPrice = 4000;
 int MarmarisPrice = 3000;
@@ -14,13 +15,16 @@ int AirPrice = 1500;
 int LandPrice = 4000;
 int TransportPrice = 0;
 int SumPrice = 0;
+
 //User Result
 string result;
 int InputResult;
+
 Here:
 Console.WriteLine("Senin için harika tatil fırsatlarımız var!");
 Console.WriteLine("Tatile gitmek istediğin yeri seçer misin: (Bodrum/Marmaris/Çeşme)");
 Console.WriteLine(" ");
+
 //Location Options
 Console.WriteLine($"Bodrum (Paket başlangıç fiyatı {BodrumPrice} TL)");
 Console.WriteLine($"Marmaris (Paket başlangıç fiyatı {MarmarisPrice} TL)");
@@ -69,6 +73,7 @@ else
     Console.WriteLine("Lütfen girdiğiniz ulaşım seçeneğini kontrol ediniz!");
     goto HereTransport;
 }
+
 Console.WriteLine(" ");
 SumPrice = HotelPrice + TransportPrice;
 Console.WriteLine("Toplam gideriniz:" + SumPrice);
