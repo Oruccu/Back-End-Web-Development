@@ -55,7 +55,7 @@ Console.WriteLine(" ");
 Console.WriteLine("----------------------------------------");
 
 //3. Task
-Console.WriteLine("Lütfen toplamak istediğiniz sayıları giriniz");
+Console.WriteLine("Lütfen çarpmak istediğiniz sayıları giriniz");
 
 string num2 = Console.ReadLine();
 string num3 = Console.ReadLine();
@@ -65,11 +65,11 @@ int usernum3 = int.Parse(num3);
 
 int sumResult = Sum(usernum2, usernum2);
 
-Console.WriteLine($"{usernum2} + {usernum3} = {sumResult}");
+Console.WriteLine($"{usernum2} x {usernum3} = {sumResult}");
 
 int Sum(int a, int b)
 {
-    return a + b;
+    return a * b;
 }
 
 //4. Task
