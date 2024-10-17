@@ -1,13 +1,13 @@
-﻿Person person = new Person();
-person.Name1= "Ayşe";
-person.Surname1= "Nur";
-person.BirthDate1= new DateTime(1999, 4,11);
-person.PersonWriteConsole();
+﻿Person Student = new Person();
+Student.Name1= "Ayşe";
+Student.Surname1= "Nur";
+Student.BirthDate1= new DateTime(1999, 4,11);
+Student.PersonWriteConsole();
 
 //************************************************//
 
-Person person2 = new Person("Fatma", "Nur", new DateTime(2000, 7,4));
-person2.PersonWriteConsole();
+Person Teacher = new Person("Fatma", "Nur", new DateTime(2000, 7,4));
+Teacher.PersonWriteConsole();
 
 class Person{
     private string name;
