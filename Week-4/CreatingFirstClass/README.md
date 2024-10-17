@@ -8,6 +8,7 @@ This project demonstrates the implementation of a Person class in C#. The class 
 * An IDE or text editor that supports C# (e.g., Visual Studio, Visual Studio Code)
 
 **Installing**
+
 Clone the repository to your local machine:
 ```Sh
 git clone https://github.com/Oruccu/Back-End-Web-Development.git
@@ -21,6 +22,7 @@ cd PersonClassProject
 ```
 
 **Running the Program**
+
 Open your IDE or terminal, and compile the program. The program will create two ```Person``` objects and display their details on the console.
 
 ***Example Usage***
