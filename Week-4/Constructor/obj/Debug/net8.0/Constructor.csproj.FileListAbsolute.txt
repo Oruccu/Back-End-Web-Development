@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/bin/Debug/net8.0/Constructor
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/bin/Debug/net8.0/Constructor.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/bin/Debug/net8.0/Constructor.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/bin/Debug/net8.0/Constructor.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/bin/Debug/net8.0/Constructor.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/Constructor.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/Constructor.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/Constructor.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/Constructor.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/Constructor.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/refint/Constructor.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/Constructor.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/Constructor.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Constructor/obj/Debug/net8.0/ref/Constructor.dll
