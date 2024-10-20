@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/bin/Debug/net8.0/Car Encapsulation
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/bin/Debug/net8.0/Car Encapsulation.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/bin/Debug/net8.0/Car Encapsulation.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/bin/Debug/net8.0/Car Encapsulation.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/bin/Debug/net8.0/Car Encapsulation.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/Car Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/Car Encapsulation.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/Car Encapsulation.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/Car Encapsulation.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/Car Encapsulation.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/Car Encapsulation.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/refint/Car Encapsulation.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/Car Encapsulation.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/Car Encapsulation.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Car Encapsulation/obj/Debug/net8.0/ref/Car Encapsulation.dll
