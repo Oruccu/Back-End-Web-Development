@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
