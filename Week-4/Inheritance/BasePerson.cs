@@ -1,4 +1,4 @@
-class BasePerson
+public abstract class BasePerson
 {
     private string name;
     private string surname;
@@ -9,8 +9,7 @@ class BasePerson
         Console.WriteLine($"Adınız: {Name} Soyadınız: {Surname}");
     }
 }
-
-class Student : BasePerson
+public class Student : BasePerson
 {
     private int number;
     public int Number { get => number; set => number = value; }
@@ -20,7 +19,7 @@ class Student : BasePerson
     }
 }
 
-class Teacher : BasePerson
+public class Teacher : BasePerson
 {
     private int salary;
     public int Salary { get => salary; set => salary = value; }
