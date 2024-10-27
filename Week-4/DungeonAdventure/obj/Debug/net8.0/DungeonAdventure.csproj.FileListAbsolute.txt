@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/bin/Debug/net8.0/DungeonAdventure
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/bin/Debug/net8.0/DungeonAdventure.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/bin/Debug/net8.0/DungeonAdventure.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/bin/Debug/net8.0/DungeonAdventure.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/bin/Debug/net8.0/DungeonAdventure.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/DungeonAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/DungeonAdventure.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/DungeonAdventure.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/DungeonAdventure.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/DungeonAdventure.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/DungeonAdventure.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/refint/DungeonAdventure.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/DungeonAdventure.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/DungeonAdventure.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-4/DungeonAdventure/obj/Debug/net8.0/ref/DungeonAdventure.dll

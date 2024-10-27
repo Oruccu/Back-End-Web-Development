@@ -19,3 +19,6 @@ salesRepresentative.name = "Büşra";
 salesRepresentative.surname = "Nur";
 salesRepresentative.department();
 salesRepresentative.role();
+
+
+
