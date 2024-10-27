@@ -37,6 +37,7 @@ while (true)
 
     if (productCreateInput == 0)
     {
+        Console.WriteLine("İyi Günler...");
         break;
     }
 }
