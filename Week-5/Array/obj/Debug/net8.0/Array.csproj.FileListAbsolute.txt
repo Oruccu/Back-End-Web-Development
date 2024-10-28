@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/bin/Debug/net8.0/Array
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/bin/Debug/net8.0/Array.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/bin/Debug/net8.0/Array.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/bin/Debug/net8.0/Array.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/bin/Debug/net8.0/Array.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/Array.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/Array.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/Array.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/Array.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/Array.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/refint/Array.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/Array.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/Array.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Array/obj/Debug/net8.0/ref/Array.dll
