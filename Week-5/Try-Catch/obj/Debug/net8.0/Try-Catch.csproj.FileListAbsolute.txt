@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/bin/Debug/net8.0/Try-Catch
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/bin/Debug/net8.0/Try-Catch.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/bin/Debug/net8.0/Try-Catch.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/bin/Debug/net8.0/Try-Catch.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/bin/Debug/net8.0/Try-Catch.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/Try-Catch.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/Try-Catch.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/Try-Catch.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/Try-Catch.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/Try-Catch.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/refint/Try-Catch.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/Try-Catch.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/Try-Catch.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Try-Catch/obj/Debug/net8.0/ref/Try-Catch.dll
