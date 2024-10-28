@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/bin/Debug/net8.0/IMDB List
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/bin/Debug/net8.0/IMDB List.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/bin/Debug/net8.0/IMDB List.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/bin/Debug/net8.0/IMDB List.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/bin/Debug/net8.0/IMDB List.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/IMDB List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/IMDB List.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/IMDB List.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/IMDB List.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/IMDB List.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/IMDB List.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/refint/IMDB List.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/IMDB List.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/IMDB List.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/IMDB List/obj/Debug/net8.0/ref/IMDB List.dll
