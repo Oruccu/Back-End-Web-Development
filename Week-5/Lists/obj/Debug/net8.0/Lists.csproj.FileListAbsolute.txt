@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/bin/Debug/net8.0/Lists
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/bin/Debug/net8.0/Lists.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/bin/Debug/net8.0/Lists.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/bin/Debug/net8.0/Lists.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/bin/Debug/net8.0/Lists.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/Lists.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/Lists.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/Lists.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/Lists.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/Lists.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/refint/Lists.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/Lists.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/Lists.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-5/Lists/obj/Debug/net8.0/ref/Lists.dll
