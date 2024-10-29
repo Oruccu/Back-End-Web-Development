@@ -17,5 +17,5 @@
 
 SELECT * FROM customer 
 WHERE store_id =1
-ORDER BY last_name
+ORDER BY last_nameBig Ben ve Parlamento Binası
 LIMIT 4;
