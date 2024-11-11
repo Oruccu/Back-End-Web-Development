@@ -12,21 +12,20 @@ List<Classes> classes = new List<Classes>(){
     new Classes{ClassId=3, ClassName="Kimya" },
 };
 
-var queryTable = students.GroupJoin(classes,
-                            student => student.ClassId,
+var queryTable = classes.GroupJoin(students,
                             classItem => classItem.ClassId,
-                            (student, studentClasses) => new
+                            student => student.ClassId,
+                            (classItem, studentClasses) => new
                             {
-                                StudentName = student.StudentName,
-                                Classes = studentClasses
+                                ClassName = classItem.ClassName,
+                                Students = studentClasses
                             });
-        
 
 foreach (var query in queryTable)
 {
-    Console.WriteLine($"Öğrenci: {query.StudentName}");
-    foreach (var classItem in query.Classes)
+    Console.WriteLine($"Sınıf: {query.ClassName}");
+    foreach (var student in query.Students)
     {
-        Console.WriteLine($"  Sınıf: {classItem.ClassName}");
+        Console.WriteLine($"  Öğrenci: {student.StudentName}");
     }
 }
