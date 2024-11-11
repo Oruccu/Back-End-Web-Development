@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/bin/Debug/net8.0/Homework-4
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/bin/Debug/net8.0/Homework-4.deps.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/bin/Debug/net8.0/Homework-4.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/bin/Debug/net8.0/Homework-4.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/bin/Debug/net8.0/Homework-4.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/Homework-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/Homework-4.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/Homework-4.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/Homework-4.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/Homework-4.sourcelink.json
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/Homework-4.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/refint/Homework-4.dll
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/Homework-4.pdb
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/Homework-4.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Back-End Web Development/Week-7/Homework-4/obj/Debug/net8.0/ref/Homework-4.dll
