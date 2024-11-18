@@ -25,3 +25,10 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+
+// Model: Database örneğini oluşturduğumuz yer.
+
+// View: HTML dosyalarını kaydettiğimiz arayüz bağlantısı yaptığımız kısım
+
+// Controller: Verileri kontrol ettiğimiz klasör.
