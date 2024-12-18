@@ -9,7 +9,7 @@ public class PatikaSecondContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Username=postgres;Password=Ayse25175;Database=PatikaCodeFirstDb2");
+        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Username=postgres;Password=******;Database=PatikaCodeFirstDb2");
     }
    protected override void OnModelCreating(ModelBuilder modelBuilder) { 
 
